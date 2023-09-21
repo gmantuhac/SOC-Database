@@ -12,7 +12,7 @@ I created a [Google Doc](https://docs.google.com/document/d/1qbimJhgVmdafJ3FTl2C
 
 I created a [Google Sheet](https://docs.google.com/spreadsheets/d/1T_CuXrdE896wNF9M6evbJyK3wtGDMDU_mGR-YTnFgxY/edit?usp=sharing) detailing the specific tables I had to create before coding the tables on SQL. There is also a separate sheet showcasing an example database where I sampled different couses in select quarters and listed them on the Google Sheet. You may see the code to add the example database in SOCdatabaseex.txt
 
-![ER diagram](https://cdn.discordapp.com/attachments/938667785679147030/1154546811353186384/image.png)
+![ER diagram](https://media.discordapp.net/attachments/938667785679147030/1154548154331570236/Schedule_of_Classes_ER_Diagram_1.png?width=1134&height=876)
 
 I created an ER diagram representing the full database I created. The ER diagram was created using Lucidchart. (Which was an extremely smooth experience to use and I highly reccomend if anyone wants to create simple diagrams on)
 
