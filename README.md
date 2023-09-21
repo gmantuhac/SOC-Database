@@ -12,7 +12,9 @@ I created a [Google Doc](https://docs.google.com/document/d/1qbimJhgVmdafJ3FTl2C
 
 I created a [Google Sheet](https://docs.google.com/spreadsheets/d/1T_CuXrdE896wNF9M6evbJyK3wtGDMDU_mGR-YTnFgxY/edit?usp=sharing) detailing the specific tables I had to create before coding the tables on SQL. There is also a separate sheet showcasing an example database where I sampled different couses in select quarters and listed them on the Google Sheet. You may see the code to add the example database in SOCdatabaseex.txt
 
-As mentioned earlier, I created an [ER diagram](https://drive.google.com/file/d/1QHK4sxmF0Yn1x5ydKwhu1cnFQgBCq9Yt/view?usp=sharing) representing the full database I created. The ER diagram was created using Lucidchart. (Which was an extremely smooth experience to use and I highly reccomend if anyone wants to create simple diagrams on)
+![ER diagram](https://drive.google.com/file/d/1QHK4sxmF0Yn1x5ydKwhu1cnFQgBCq9Yt/view?usp=sharing)
+
+I created an ER diagram representing the full database I created. The ER diagram was created using Lucidchart. (Which was an extremely smooth experience to use and I highly reccomend if anyone wants to create simple diagrams on)
 
 While this project is a relatively simple project, I am extremely proud of the work I've done. This is the first full on project that I have dedicated towards that is not within my academic courses; which feels refreshing to do. The project has shown me a career path I can persue and I will take steps towards continuous learning in this path. 
 
